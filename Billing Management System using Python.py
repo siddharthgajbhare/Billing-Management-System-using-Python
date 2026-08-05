@@ -1,5 +1,3 @@
-//one commit
-
 from tkinter import *
 import random
 import os
