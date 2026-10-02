@@ -181,11 +181,16 @@ This project is developed for educational purposes.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Owner & Author
 
 **Siddharth Gajbhare**
 
-GitHub: https://github.com/siddharthgajbhare
+* 💻 Python Developer
+* 🛠️ Project Owner & Developer
+* 📂 GitHub: **github.com/siddharthgajbhare**
+
+⭐ If you found this project useful, don't forget to **Star** the repository!
+
 
 ---
 
